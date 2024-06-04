@@ -9,24 +9,16 @@ import { Desc1 } from "@/components/desc1";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+const LandingPage = () => {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}
-      <Navbar />
-      <Hero />
-      <Desc1 />
-      
-
-
-
+      <body className={inter.className}>
+        <Navbar />
+        <Hero />
+        <Desc1 />
       </body>
     </html>
   );
 }
 
-
+export default LandingPage;
