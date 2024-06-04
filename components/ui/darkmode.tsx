@@ -4,7 +4,6 @@ import { useTheme } from "next-themes";
 import { Switch } from "@/components/ui/switch";
 import styles from "./darkmode.module.css";
 
-
 export const ModeToggle = () => {
   const { setTheme, theme } = useTheme();
 
