@@ -9,7 +9,7 @@ export const Desc1 = () => {
     return (
       <>
         {/* Icon Blocks */}
-        <div className=" relative z-10 container pt-24 pb-10 lg:py-32">
+        <div className=" relative z-10 container py-24 lg:py-32">
           {/* Grid */}
           <div className="grid md:grid-cols-2 gap-12">
             <div className="lg:w-3/4">
@@ -88,6 +88,7 @@ export const Desc1 = () => {
               {/* End Icon Block */}
             </div>
             {/* End Col */}
+
           </div>
           {/* End Grid */}
         </div>

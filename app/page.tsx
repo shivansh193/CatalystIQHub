@@ -7,6 +7,7 @@ import { Navbar } from "@/components/navbar";
 import { Hero } from "@/components/hero";
 import { Desc1 } from "@/components/desc1";
 import RetroGrid from "@/components/magicui/retro-grid";
+import { Footer } from "@/components/ui/m-footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,10 +16,14 @@ const LandingPage = () => {
     <html lang="en">
       <body className={`relative ${inter.className}`}>
         <Navbar />
+          
         <Hero />
+        <Desc1 />
         <div className="relative">
-          <Desc1 />
-          <RetroGrid />
+          <div className="z-0"><RetroGrid /></ div>
+        
+          <div className= "z-10"><Footer /></ div>
+        
         </div>
       </body>
     </html>
