@@ -43,9 +43,7 @@ export const Desc1 = () => {
                     daal do content idhar pls
                   </h3>
                   <p className="mt-1 text-muted-foreground">
-                  तू माल है किसी और का तुझे चोदता कोई और है 😁 तू प्यार है किसी और का तेरी मारता कोई और है तू पसन्द है किसी और की तुझे चाटता कोई और है तू प्यार है किसी और का तुझे पेलता कोई और है
-
-प्यार में 
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu blandit metus, ut facilisis quam. Donec in lacus et risus viverra ornare. Nunc in neque nec ipsum dignissim volutpat id in mauris. Pellentesque feugiat laoreet tellus. 
                   </p>
                 </div>
               </div>
@@ -61,9 +59,7 @@ export const Desc1 = () => {
                     hahahahahahhaha
                   </h3>
                   <p className="mt-1 text-muted-foreground">
-                  तू माल है किसी और का तुझे चोदता कोई और है 😁 तू प्यार है किसी और का तेरी मारता कोई और है तू पसन्द है किसी और की तुझे चाटता कोई और है तू प्यार है किसी और का तुझे पेलता कोई और है
-
-प्यार में 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu blandit metus, ut facilisis quam. Donec in lacus et risus viverra ornare. Nunc in neque nec ipsum dignissim volutpat id in mauris. Pellentesque feugiat laoreet tellus.  
                   </p>
                 </div>
               </div>
@@ -79,9 +75,7 @@ export const Desc1 = () => {
                     Simple and affordable
                   </h3>
                   <p className="mt-1 text-muted-foreground">
-                  तू माल है किसी और का तुझे चोदता कोई और है 😁 तू प्यार है किसी और का तेरी मारता कोई और है तू पसन्द है किसी और की तुझे चाटता कोई और है तू प्यार है किसी और का तुझे पेलता कोई और है
-
-प्यार में 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu blandit metus, ut facilisis quam. Donec in lacus et risus viverra ornare. Nunc in neque nec ipsum dignissim volutpat id in mauris. Pellentesque feugiat laoreet tellus.  
                   </p>
                 </div>
               </div>
